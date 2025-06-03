@@ -69,9 +69,8 @@
 ### 🎉 Fun Extras
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif" width="250"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="250"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="250"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="450"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="450"/>
 </p>
 
 ---
@@ -79,7 +78,7 @@
 ### 🏁 Final Lap Inspiration
 
 <p align="center">
-  <img src="checo.gif" width="250" alt="Checo Pérez GIF" />
+  <img src="checo.gif" width="450" alt="Checo Pérez GIF" />
 </p>
 
 <p align="center"><strong><em>“NEVER GIVE UP — SP11 🇲🇽🏎️”</em></strong></p>
