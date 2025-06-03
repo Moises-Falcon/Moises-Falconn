@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Moisés+Falcón!;Computer+Engineering+Student;Web+Dev+%7C+AI+%7C+Tech+with+Impact;&center=true&size=25" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mois%C3%A9s+Falc%C3%B3n!;Computer+Engineering+Student;Web+Dev+%7C+AI+%7C+Social+Impact+Tech" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="mailto:moisesjrfalcon@gmail.com">📧 moisesjrfalcon@gmail.com</a> • 
@@ -8,34 +8,38 @@
   📍 Mexico
 </p>
 
----
+<hr style="height:2px;border-width:0;background:linear-gradient(90deg, transparent, #00c6ff, transparent);" />
 
 ### 👨‍💻 About Me
 
 - 🎓 Computer Engineering student @ Tecnológico de Monterrey
-- 🧰 Certified tech in equipment maintenance
-- 🤖 Focused on **AI**, **inclusive platforms**, and **educational tools**
-- 👨‍👩‍👧‍👦 Projects with social value = 🔥 my favorite
-- 🏆 ICPC competitor, agile development enthusiast
+- 🧰 Tech in Computer Equipment Support & Maintenance
+- 🤖 Passionate about **AI**, **inclusive tech**, and **edutainment**
+- 🏆 ICPC programming competitor | Agile team player
+- 🧠 Building things that solve real problems
 
----
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="350"/>
+</p>
+
+<hr style="height:2px;border-width:0;background:linear-gradient(90deg, transparent, #00c6ff, transparent);" />
 
 ### ⚙️ Tech Stack
 
-| 💻 Languages | 🧠 Frameworks & Tools | ☁️ Cloud & Dev |
+| 💻 Languages | 🧠 Frameworks & Tools | ☁️ Cloud & DevOps |
 |-------------|----------------------|----------------|
 | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
-### 🌟 Highlight Projects
+### 💡 Highlight Projects
 
-- 🎮 **Crypto Horizon** – Unity game + Node.js + AWS  
-- 🌐 **AirSense CEM** – IoT + React + PHP + AI support  
-- 🧩 **GAMP** – Inclusive UI + accessibility for neurodiverse users  
+- 🎮 **Crypto Horizon** – Unity Game + Node.js + AWS
+- 🌐 **AirSense CEM** – IoT + MariaDB + React + AI-powered code
+- 🧩 **GAMP** – Inclusive EdTech Platform
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="350"/>
 </p>
 
 ---
@@ -45,8 +49,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Moises-Falcon&theme=tokyonight&show_icons=true" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moises-Falcon&theme=tokyonight" width="49%" />
-</div>
-<div align="center">
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Falcon&layout=compact&theme=tokyonight" width="50%"/>
 </div>
 
@@ -54,12 +57,30 @@
 
 ### 🧠 Currently Learning
 
-- 🚀 **Next.js**, **DevOps**, **Cloud deployments**
-- 🤓 Advanced AI, algorithms, and systems design
+- 🛠️ Next.js, DevOps, advanced React
+- 📚 Competitive algorithms, backend scaling
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350"/>
+</p>
 
 ---
 
+### 🎉 Fun Extras
+
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+  <img src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif" width="250"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="250"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="250"/>
 </p>
+
+---
+
+### 🏁 Final Lap Inspiration
+
+<p align="center">
+  <img src="https://media.tenor.com/MMPDAnInzHAAAAAC/sergio-perez-checo.gif" width="250" alt="Checo pointing" />
+</p>
+
+<p align="center"><strong><em>“NEVER GIVE UP — SP11 🇲🇽🏎️”</em></strong></p>
+
