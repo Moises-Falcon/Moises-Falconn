@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mois%C3%A9s+Falc%C3%B3n!;Computer+Engineering+Student;Web+Dev+%7C+AI+%7C+Social+Impact+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Moises+Falcon!;Computer+Engineering+Student;Web+Dev+%7C+AI+%7C+Social+Impact+Tech" alt="Typing SVG" />
 </p>
+
 
 <p align="center">
   <a href="mailto:moisesjrfalcon@gmail.com">📧 moisesjrfalcon@gmail.com</a> • 
@@ -8,7 +9,7 @@
   📍 Mexico
 </p>
 
-<hr style="height:2px;border-width:0;background:linear-gradient(90deg, transparent, #00c6ff, transparent);" />
+---
 
 ### 👨‍💻 About Me
 
@@ -22,7 +23,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/240825379-0db32290-c193-4b32-95dc-413ce9e446a5.gif"  width="350"/>
 </p>
 
-<hr style="height:2px;border-width:0;background:linear-gradient(90deg, transparent, #00c6ff, transparent);" />
+---
 
 ### ⚙️ Tech Stack
 
@@ -52,9 +53,11 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Falcon&layout=compact&theme=tokyonight" width="50%"/>
 </div>
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="150"/>
 </p>
+
 ---
 
 ### 🧠 Currently Learning
@@ -78,8 +81,8 @@
 
 ---
 
-### 
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300"/>
 </p>
+
+
