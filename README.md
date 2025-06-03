@@ -1,13 +1,21 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Moises+Falcon!;Computer+Engineering+Student;Web+Dev+%7C+AI+%7C+Social+Impact+Tech" alt="Typing SVG" />
-</p>
-
-
-<p align="center">
-  <a href="mailto:moisesjrfalcon@gmail.com">📧 moisesjrfalcon@gmail.com</a> • 
-  <a href="https://www.linkedin.com/in/moises-falcon-pacheco-2b6b92324/" target="_blank">🌐 LinkedIn</a> • 
-  📍 Mexico
-</p>
+<table>
+  <tr>
+    <td width="160">
+      <img src="MFP.jpg" width="150" style="border-radius: 10px;" alt="Moises Falcon Profile Photo"/>
+    </td>
+    <td>
+      <p align="left">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&vCenter=true&width=400&lines=Hi%2C+I'm+Moises+Falcon!;Fullstack+and+Data+Analysis" alt="Typing SVG" />
+      </p>
+      <h2 align="left"><strong>MOISES FALCON PACHECO</strong></h2>
+      <p align="left">
+        <a href="mailto:moisesjrfalcon@gmail.com">📧 moisesjrfalcon@gmail.com</a> • 
+        <a href="https://www.linkedin.com/in/moises-falcon-pacheco-2b6b92324/" target="_blank">🌐 LinkedIn</a> • 
+        📍 Mexico
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
