@@ -79,7 +79,7 @@
 ### 🏁 Final Lap Inspiration
 
 <p align="center">
-  <img src="https://media.tenor.com/MMPDAnInzHAAAAAC/sergio-perez-checo.gif" width="250" alt="Checo pointing" />
+  <img src="checo.gif" width="250" alt="Checo Pérez GIF" />
 </p>
 
 <p align="center"><strong><em>“NEVER GIVE UP — SP11 🇲🇽🏎️”</em></strong></p>
