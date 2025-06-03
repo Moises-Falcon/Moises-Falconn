@@ -60,4 +60,9 @@
 
 ---
 
+### 🐍 My Contribution Snake (Animated)
+
+![snake gif](https://github.com/Moises-Falcon/Moises-Falcon/blob/output/github-contribution-grid-snake.svg)
+
+
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
