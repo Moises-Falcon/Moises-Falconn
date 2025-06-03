@@ -6,7 +6,7 @@
       </td>
       <td>
         <p align="left">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&vCenter=true&width=500&lines=Hi%2C+I'm+Moises+Falcon!;Fullstack+and+Data+Analysis" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&vCenter=true&width=500&lines=print(%22Hello+World!%22);Fullstack+and+Data+Analysis" alt="Typing SVG" />
         </p>
         <h1 align="left"><strong>MOISES FALCON PACHECO</strong></h1>
         <p align="left">
@@ -18,6 +18,7 @@
     </tr>
   </table>
 </div>
+
 
 ---
 
