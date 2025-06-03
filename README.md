@@ -53,6 +53,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Falcon&layout=compact&theme=tokyonight" width="50%"/>
 </div>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="250"/>
+</p>
+
 ---
 
 ### 🧠 Currently Learning
@@ -61,19 +65,7 @@
 - 📚 Competitive algorithms, backend scaling
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="350"/>
-</p>
-
----
-
-### 🔥 Energy Mode Activated
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="300"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="500"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="650"/>
 </p>
 
 ---
@@ -85,4 +77,10 @@
 </p>
 
 <p align="center"><strong><em>“NEVER GIVE UP — SP11 🇲🇽🏎️”</em></strong></p>
+---
+###
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700"/>
+</p>
+
 
