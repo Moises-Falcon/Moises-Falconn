@@ -1,68 +1,65 @@
-<h1 align="center">Hi there 👋, I'm Moisés Falcón</h1>
-<h3 align="center">Computer Engineering Student | Passionate about AI, Web Development, and Social Impact</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Moisés+Falcón!;Computer+Engineering+Student;Web+Dev+%7C+AI+%7C+Tech+with+Impact;&center=true&size=25" />
+</h1>
 
 <p align="center">
   <a href="mailto:moisesjrfalcon@gmail.com">📧 moisesjrfalcon@gmail.com</a> • 
   <a href="https://www.linkedin.com/in/moises-falcon-pacheco-2b6b92324/" target="_blank">🌐 LinkedIn</a> • 
-  📍Mexico
+  📍 Mexico
 </p>
 
 ---
 
-### 🧠 About Me
+### 👨‍💻 About Me
 
-- 🎓 Student at **Tecnológico de Monterrey** (Computer Technologies Engineering)
-- 🧰 Technician in Computer Equipment Support & Maintenance
-- 🤖 Passionate about **AI**, **educational video games**, and **inclusive tech**
-- 🏆 ICPC programming competitor and tech challenge enthusiast
-- 🚀 I love building things that have real social impact
-
----
-
-### 🛠️ Skills & Tools
-
-![Skillicons](https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,html,css,mysql,git,github,vscode,aws)
+- 🎓 Computer Engineering student @ Tecnológico de Monterrey
+- 🧰 Certified tech in equipment maintenance
+- 🤖 Focused on **AI**, **inclusive platforms**, and **educational tools**
+- 👨‍👩‍👧‍👦 Projects with social value = 🔥 my favorite
+- 🏆 ICPC competitor, agile development enthusiast
 
 ---
 
-### 🧩 Featured Projects
+### ⚙️ Tech Stack
 
-- **Crypto Horizon** (w/ CryptoChicks):
-  - 🕹️ Built a 2D educational game in Unity (C#)
-  - 🔐 Login system with Node.js & AWS
-  - 📊 Dashboard in JS + MySQL
+| 💻 Languages | 🧠 Frameworks & Tools | ☁️ Cloud & Dev |
+|-------------|----------------------|----------------|
+| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
-- **AirSense CEM**:
-  - 🌐 IoT project with sensors, MariaDB, and React
-  - 🧠 Used AI tools to speed up development
+---
 
-- **GAMP**:
-  - 🌈 Web dev for neurodiverse inclusion
-  - 🥇 Winner of multiple regional awards in EdTech and social aid
+### 🌟 Highlight Projects
+
+- 🎮 **Crypto Horizon** – Unity game + Node.js + AWS  
+- 🌐 **AirSense CEM** – IoT + React + PHP + AI support  
+- 🧩 **GAMP** – Inclusive UI + accessibility for neurodiverse users  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moises-Falcon&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moises-Falcon&theme=tokyonight" alt="GitHub Streak"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Moises-Falcon&theme=tokyonight&show_icons=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Moises-Falcon&theme=tokyonight" width="49%" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moises-Falcon&layout=compact&theme=tokyonight" width="50%"/>
+</div>
 
 ---
 
-### ⚙️ Currently Learning
+### 🧠 Currently Learning
 
-- 📚 Next.js, DevOps, and deeper AI topics
-- 💡 Always curious, always building
+- 🚀 **Next.js**, **DevOps**, **Cloud deployments**
+- 🤓 Advanced AI, algorithms, and systems design
 
 ---
 
-### 🐍 My Contribution Snake (Animated)
-
-![snake gif](https://github.com/Moises-Falcon/Moises-Falcon/blob/output/github-contribution-grid-snake.svg)
-
-
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" />
+</p>
